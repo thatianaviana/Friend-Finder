@@ -3,11 +3,12 @@
 Here's your chance to find out which Spice Girls would be YOUR best friend!
 
 # Live Link
+https://peaceful-spire-88000.herokuapp.com/
 
 
 # How It Works
 
-Answer the 10 questions in this survey and our app will calculate your scores and tell you which Spice you match with!~
+Answer the 10 questions in this survey and our app will calculate your scores and tell you which Spice you match with!
 
 
 # Technologies Used
