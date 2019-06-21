@@ -1,0 +1,81 @@
+body {
+	font-family: 'Roboto', sans-serif;
+    /* background-image: url(http://images2.fanpop.com/images/photos/2800000/Spice-Girls-spice-girls-2807889-1024-768.jpg); */
+   
+
+}
+.form-group {
+	background-color: #BEF5FC;
+	border: 3px solid  #D0CDD3;
+}
+.site {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+.content {
+	flex: 1;
+}
+.header {
+    /* background-color: #777;
+    border: 4px solid */
+}
+
+h1 {
+	
+	font-size: 4em;
+	text-align: center;
+	margin-top: 10px;
+    margin-bottom: 30px;
+    /* background-color: grey; */
+}
+
+p {
+	text-align: center;
+	max-width: 60%;
+	line-height: 1.75;
+	margin: auto;
+    font-size: 20px;
+    /* background-color: grey; */
+    opacity: 0.9;
+}
+
+footer {
+	text-align: right;
+	background-color: #B7F4FC;
+	padding: 30px;
+	/* -webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
+	box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2); */
+}
+
+.btn {
+	margin: 30px;
+}
+
+form {
+	margin-top: 40px;
+}
+
+a {
+	color: black;
+	font-size: 20px;
+}
+
+#bestFriendModal {
+	text-align: center;
+}
+
+#bestFriendPhoto {
+	max-width: 100%;
+	height: auto;
+}
+
+span {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #777;
+	font-size: 20px;
+
+}
